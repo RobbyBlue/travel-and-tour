@@ -1,0 +1,155 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Raleway',sans-serif;
+}
+
+p{
+    font-family: 'Raleway',sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.menu{
+	background-color: #041230;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #B52;
+    background-color: transparent;
+    display: block;
+    font-size: 18px;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #B52;
+    background-color: transparent;
+}
+
+.navbar-nav {
+    float: left;
+    margin: 0px;
+    padding-top: 8px;
+    font-size: 17px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #eee;
+}
+
+.nopadding{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.skills{
+    margin-bottom: 50px;
+}
+
+.skills h3{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.skills hr{
+    width: 45px;
+    height: 3px;
+    background-color: #000;
+    border: none;
+    /*display: inline-block;*/
+    transform: rotate(-90deg);
+    position: relative;
+    top: 30px;
+    left: -43px;
+}
+
+#progressbar{
+    margin:50px 0;
+}
+
+#aboutme{
+    /*background-color: #fff;*/
+}
+
+.left-content{
+    margin: 50px 0;
+}
+
+.left-content h3{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.left-content h4{
+    text-transform: uppercase;
+    padding: 10px 0;
+    line-height: 24px;
+}
+
+.left-content h4 span{
+    color: #32ff00;
+}
+
+.left-content hr{
+    width: 45px;
+    height: 3px;
+    background-color: #000;
+    border: none;
+    /*display: inline-block;*/
+    transform: rotate(-90deg);
+    position: relative;
+    top: 33px;
+    left: -43px;
+}
+
+.right-content{
+    margin: 50px 0;
+}
+
+#service{
+    background-color: #041230;
+}
+
+.service-title{
+    margin-top: 50px;
+}
+
+.service-title h2{
+    font-weight: bold;
+    color: #fff;
+    font-size: 42px;
+}
+
+.box-1{
+   background-color: #fff;
+   padding: 50px 0px;
+   margin: 20px 0;
+}
+
+.box-2{
+   background-color: #fff;
+   padding: 50px 0px;
+   margin: 20px 0;
+}
+
+.box-3{
+   background-color: #fff;
+   padding: 50px 0px;
+   margin: 40px 0;
+}
+
+.box-4{
+   background-color: #fff;
+   padding: 50px 0px;
+   margin: 40px 0;
+}
+
